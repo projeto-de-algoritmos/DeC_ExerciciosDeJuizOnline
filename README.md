@@ -15,7 +15,7 @@ Nosso principal objetivo foi aprimorar as habilidades de programação, com foco
 
 Enfatizamos a aplicação de estratégias de "dividir e conquistar" nos desafios propostos por ambas as plataformas. Isso envolveu a decomposição de problemas complexos em subproblemas menores, facilitando a resolução e promovendo uma compreensão mais profunda dos algoritmos envolvidos.
 
-Além da resolução de problemas, dedicamos uma parte significativa do nosso tempo a um projeto prático específico: o desenvolvimento de um organizador de tarefas em Python. Este projeto teve como propósito não apenas consolidar os conceitos aprendidos, mas também aplicar a abordagem de "dividir e conquistar" na criação de uma ferramenta útil para o gerenciamento de tarefas diárias. O organizador oferece funcionalidades essenciais, como adição, exclusão e visualização de tarefas, proporcionando uma experiência prática e tangível no desenvolvimento de software com ênfase em algoritmos avançados.
+Além da resolução de problemas, dedicamos uma parte significativa do nosso tempo a um projeto prático específico: o desenvolvimento de um organizador de tarefas em Python, o ```Tasks```. Este projeto teve como propósito não apenas consolidar os conceitos aprendidos, mas também aplicar a abordagem de "dividir e conquistar" na criação de uma ferramenta útil para o gerenciamento de tarefas diárias. O organizador oferece funcionalidades essenciais, como adição, exclusão e visualização de tarefas, proporcionando uma experiência prática e tangível no desenvolvimento de software com ênfase em algoritmos avançados.
 
 ## Screenshots
 
