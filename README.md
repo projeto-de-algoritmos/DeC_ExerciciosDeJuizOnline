@@ -1,4 +1,5 @@
-**Número da Lista**: 4<br>
+# Exercícios de Juiz Online e TASKS
+
 **Conteúdo da Disciplina**: DeC<br>
 
 ## Alunos
@@ -76,9 +77,7 @@ Siga as instruções na interface para adicionar, excluir e visualizar tarefas.
 Ao seguir esses passos, você poderá aproveitar as soluções dos exercícios e utilizar o organizador de tarefas de maneira eficiente. Certifique-se de ter o Python instalado em seu ambiente antes de executar os comandos.
 
 ## Apresentação
-> - [Vídeo de apresentação]()
-
-> - [Link para o vídeo de apresentação no youtube]()
+> - [Vídeo de apresentação](./apresentacao.rar)
 
 
 
