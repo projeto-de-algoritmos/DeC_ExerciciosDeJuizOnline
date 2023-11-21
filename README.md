@@ -33,11 +33,11 @@ Além da resolução de problemas, dedicamos uma parte significativa do nosso te
 ![](./B/Problema.png)
 ![](./B/contest.png)
 
-### [C - Problema dos pares mais próximos](https://www.beecrowd.com.br/judge/pt/problems/view/1295)
+#### [C - Problema dos pares mais próximos](https://www.beecrowd.com.br/judge/pt/problems/view/1295)
 ![](./C/problema.png)
 ![](./C/submicao.png)
 
-### [D - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+#### [D - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 ![](./D/problema.png)
 ![](./D/submicao.png)
 
